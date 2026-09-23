@@ -1,0 +1,22 @@
+# Automatic Door Controller
+
+## Description
+An Automatic Door Controller automatically opens and closes a door when a person is detected by a sensor.
+
+## Features
+- Automatic door opening
+- Automatic door closing
+- Sensor-based control
+- Verilog HDL implementation
+- Testbench and simulation included
+
+## Files
+- `automatic_door_controller.v` – Main Verilog code
+- `automatic_door_controller_tb.v` – Testbench
+- `simulation/` – Simulation results
+
+## Tools Used
+- Verilog HDL
+- EDA Playground / ModelSim / Vivado
+
+## Author
